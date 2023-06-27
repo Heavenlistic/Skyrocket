@@ -16,7 +16,7 @@
 
 8. Home > Subscription > Azure subscription 1 > Access control (IAM) > Add role assignment > Privileged administrator roles > Contributor > Select members: (new subscription name) > Next > Review +assign
 
-9. In Azure Devops > Files > Pipelines > Create Pipeline > Azure Repos Git > Select Project > Existing Azure Pipeline YAML file > Select Path > Continue > Save > Run pipeline
+9. In Azure Devops > Pipelines > Create Pipeline > Azure Repos Git > Select Project > Existing Azure Pipeline YAML file > Select Path > Continue > Save > Run pipeline
 
 10. Pipelines > Select pipeline > Run pipeline > Job > (if there is error, select the error e.g., Preview Bicep Changes shows error “Could not find a part of the path”. In Vs Code > azure-pipeline.yml file > on line 10 template file > change path to main/webapp.bicep > git add . > git commit -m "initial commit > git push)
 
