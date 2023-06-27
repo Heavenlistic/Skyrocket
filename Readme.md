@@ -1,8 +1,6 @@
 # To Deploy Web Application using biceps and Pipelines on Azure devops
 
-1.  
-
-2. In Azure Devops > Create New Project > Project Name:  > Description: To Deploy Web Application using biceps and Pipelines on Azure devops > Advanced: Agile > Create
+1. In Azure Devops > Create New Project > Project Name:  > Description: To Deploy Web Application using biceps and Pipelines on Azure devops > Advanced: Agile > Create
 
 2. In Azure Devops > Project >Repo > Clone > Copy url > use git commands to push code from VS Code to Azure Devops
 
