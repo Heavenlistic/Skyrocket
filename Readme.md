@@ -39,7 +39,7 @@
 3. git config --global --unset-all user.name (to resolve error of multiple values)
 4. git init > git add . > git commit -m "initial commit"
 5. git remote set-url origin <new_url> (to change git remote origin)
-6. git remote -v (shows the origin of the project) 
+6. git remote -v (to show the origin of the project) 
 7. git remote add origin (git link) 
    git branch -M main 
    git push -u origin --all
