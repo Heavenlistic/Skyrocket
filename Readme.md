@@ -42,3 +42,5 @@
    git branch -M main 
    git push -u origin --all
 8. git add . > git commit -m "Second commit" > git push (for updated changes)
+9. az group delete --name <resource-group-name> --yes (To delete a resource group)
+
